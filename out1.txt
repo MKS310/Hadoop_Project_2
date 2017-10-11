@@ -1,0 +1,279 @@
+10,Austria 	12431
+10,Belgium 	12360
+10,Channel Islands 	12407
+10,Cyprus 	14937
+10,Czech Republic 	12420
+10,Denmark 	12781
+10,EIRE 	12394
+10,Finland 	14911
+10,France 	12667
+10,Germany 	12695
+10,Iceland 	12518
+10,Israel 	12347
+10,Italy 	12512
+10,Japan 	12610
+10,Netherlands 	12798
+10,Norway 	14646
+10,Portugal 	12381
+10,RSA 	12757
+10,Singapore 	12446
+10,Spain 	12744
+10,Sweden 	12484
+10,Switzerland 	12483
+10,United Kingdom 	12371
+10,USA 	16685
+11,Australia 	12646
+11,Austria 	12388
+11,Belgium 	12374
+11,Channel Islands 	12395
+11,Cyprus 	14936
+11,Czech Republic 	12391
+11,Denmark 	12781
+11,EIRE 	12429
+11,Finland 	14156
+11,France 	12375
+11,Germany 	12731
+11,Italy 	12613
+11,Japan 	12578
+11,Malta 	12753
+11,Netherlands 	17828
+11,Norway 	12775
+11,Poland 	12438
+11,Portugal 	12576
+11,Spain 	12762
+11,Sweden 	12597
+11,Switzerland 	12483
+11,United Kingdom 	12384
+12,Australia 	16533
+12,Austria 	12431
+12,Belgium 	12865
+12,Channel Islands 	12423
+12,Cyprus 	14932
+12,Denmark 	12359
+12,EIRE 	12367
+12,Finland 	14016
+12,France 	12348
+12,Germany 	12678
+12,Greece 	12600
+12,Iceland 	12478
+12,Israel 	12347
+12,Italy 	12666
+12,Japan 	12515
+12,Lithuania 	12763
+12,Malta 	15332
+12,Netherlands 	17828
+12,Norway 	14646
+12,Poland 	12381
+12,Portugal 	12779
+12,Spain 	12762
+12,Sweden 	17097
+12,Switzerland 	17404
+12,United Kingdom 	12377
+12,USA 	16455
+1,Australia 	12646
+1,Belgium 	12422
+1,Channel Islands 	12383
+1,Cyprus 	14442
+1,EIRE 	12359
+1,Finland 	14156
+1,France 	12664
+1,Germany 	12651
+1,Greece 	12712
+1,Iceland 	14439
+1,Italy 	12347
+1,Japan 	12578
+1,Lebanon 	12753
+1,Netherlands 	12764
+1,Poland 	12778
+1,Portugal 	12779
+1,Singapore 	12356
+1,Spain 	12744
+1,Sweden 	17097
+1,Switzerland 	12483
+1,United Kingdom 	12377
+2,Australia 	12747
+2,Austria 	12431
+2,Belgium 	12373
+2,Channel Islands 	12395
+2,Cyprus 	14935
+2,Czech Republic 	12359
+2,Denmark 	12781
+2,EIRE 	12372
+2,Finland 	14156
+2,France 	12582
+2,Germany 	12728
+2,Israel 	12524
+2,Italy 	12653
+2,Japan 	12594
+2,Netherlands 	12753
+2,Norway 	12775
+2,Poland 	12350
+2,Portugal 	12576
+2,Saudi Arabia 	12766
+2,Spain 	12565
+2,Sweden 	12540
+2,Switzerland 	12676
+2,United Arab Emirates 	13501
+2,United Kingdom 	17829
+3,Australia 	18093
+3,Austria 	12434
+3,Belgium 	12818
+3,Canada 	12383
+3,Channel Islands 	15388
+3,Cyprus 	14934
+3,Denmark 	12370
+3,EIRE 	12435
+3,Finland 	14016
+3,France 	12428
+3,Germany 	12679
+3,Greece 	12471
+3,Italy 	17508
+3,Japan 	12514
+3,Netherlands 	12753
+3,Norway 	12778
+3,Poland 	12352
+3,Portugal 	12779
+3,Saudi Arabia 	12782
+3,Spain 	12565
+3,Sweden 	12540
+3,Switzerland 	17404
+3,United Kingdom 	13520
+4,Australia 	18108
+4,Austria 	12415
+4,Belgium 	12429
+4,Brazil 	12362
+4,Channel Islands 	12769
+4,Cyprus 	14931
+4,Czech Republic 	12359
+4,EIRE 	12781
+4,European Community 	14156
+4,Finland 	15108
+4,France 	12348
+4,Germany 	12670
+4,Greece 	12662
+4,Iceland 	12717
+4,Italy 	12347
+4,Japan 	14912
+4,Netherlands 	12755
+4,Poland 	14646
+4,Portugal 	12779
+4,Singapore 	12356
+4,Spain 	12744
+4,Sweden 	12354
+4,Switzerland 	12483
+4,United Kingdom 	13501
+4,Unspecified 	15752
+4,USA 	12363
+5,Australia 	12733
+5,Austria 	12431
+5,Bahrain 	12360
+5,Belgium 	12353
+5,Canada 	12394
+5,Channel Islands 	17443
+5,Denmark 	14442
+5,EIRE 	12372
+5,France 	14911
+5,Germany 	12684
+5,Italy 	12625
+5,Japan 	12594
+5,Netherlands 	12770
+5,Poland 	12775
+5,Portugal 	12576
+5,Spain 	12757
+5,Sweden 	12502
+5,Switzerland 	12483
+5,United Kingdom 	12451
+5,Unspecified 	13136
+6,Australia 	16320
+6,Austria 	12424
+6,Belgium 	12818
+6,Canada 	12380
+6,Channel Islands 	17444
+6,Cyprus 	14936
+6,Denmark 	12359
+6,EIRE 	12412
+6,European Community 	14911
+6,Finland 	15108
+6,France 	12704
+6,Germany 	12732
+6,Iceland 	12720
+6,Italy 	12347
+6,Japan 	12584
+6,Malta 	12798
+6,Netherlands 	17828
+6,Norway 	12778
+6,Poland 	12444
+6,Portugal 	12779
+6,Spain 	12808
+6,Sweden 	12450
+6,Switzerland 	12697
+6,United Kingdom 	12409
+6,Unspecified 	18109
+7,Australia 	16320
+7,Austria 	12431
+7,Belgium 	12453
+7,Canada 	12464
+7,Denmark 	17444
+7,EIRE 	12412
+7,European Community 	14911
+7,Finland 	15108
+7,France 	12405
+7,Germany 	12490
+7,Greece 	12621
+7,Israel 	12717
+7,Italy 	12653
+7,Japan 	12584
+7,Netherlands 	12753
+7,Norway 	14646
+7,Poland 	12438
+7,Portugal 	12576
+7,Singapore 	12757
+7,Spain 	12744
+7,Sweden 	12450
+7,Switzerland 	12697
+7,United Kingdom 	12456
+7,Unspecified 	18109
+8,Australia 	14265
+8,Austria 	12415
+8,Belgium 	12360
+8,Canada 	12399
+8,Channel Islands 	17844
+8,Denmark 	14930
+8,EIRE 	12406
+8,Finland 	14156
+8,France 	12428
+8,Germany 	12680
+8,Iceland 	12621
+8,Israel 	12347
+8,Italy 	12688
+8,Japan 	12610
+8,Malta 	12753
+8,Netherlands 	17828
+8,Norway 	14646
+8,Poland 	12381
+8,Portugal 	12750
+8,Spain 	12758
+8,Sweden 	17097
+8,Switzerland 	12697
+8,United Kingdom 	12378
+8,Unspecified 	15582
+9,Australia 	14265
+9,Belgium 	12422
+9,Channel Islands 	12379
+9,Cyprus 	14931
+9,Denmark 	12457
+9,EIRE 	12412
+9,Finland 	14156
+9,France 	12348
+9,Germany 	12490
+9,Italy 	14335
+9,Japan 	12584
+9,Netherlands 	12756
+9,Norway 	12787
+9,Poland 	12352
+9,Portugal 	12576
+9,Spain 	12794
+9,Sweden 	12546
+9,Switzerland 	12483
+9,United Arab Emirates 	13505
+9,United Kingdom 	12739
