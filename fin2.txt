@@ -1,0 +1,5 @@
+0 : a,i,racecar,toot
+1 : cat,cat,is,sdf,tart,test
+2 : hello,laksjdl,tater,this
+4 : abdefghfebdc,whatever
+5 : palindrome,palindrome

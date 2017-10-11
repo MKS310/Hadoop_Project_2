@@ -1,8 +1,8 @@
-
 #File: mapper2.py
 #Author: Maggie Schweihs
 #DS730, Fall 2017
 #Project2: Hadoop
+#!/usr/bin/env python3
 
 import sys
 
@@ -36,7 +36,7 @@ def main(argv):
                     else:
                         j += 1
         #Output (key, value) as (word, swaps)
-            print(word + '\t' + str(swaps))
+            print(str(swaps) + '\t' + word)
         line = sys.stdin.readline()
 if __name__ == "__main__":
     main(sys.argv)
