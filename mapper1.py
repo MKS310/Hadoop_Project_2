@@ -26,7 +26,7 @@ def main(argv):
             date = line[4].split('/')
         #amtSpent = Qty * Price
             amtSpent = Decimal(line[3]) * Decimal(line[5])
-            print(str(date[0]) +  "," + country.strip() + " : " + custID + "," + str(amtSpent))
+            print(str(date[0]) +  "," + country.strip() + "\t" + custID + "," + str(amtSpent))
             line = sys.stdin.readline()
 if __name__ == "__main__":
     main(sys.argv)
