@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #File: reducer2.py
 #Author: Maggie Schweihs
 #DS730, Fall 2017

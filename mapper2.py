@@ -1,8 +1,8 @@
+#!/usr/bin/env python3
 #File: mapper2.py
 #Author: Maggie Schweihs
 #DS730, Fall 2017
 #Project2: Hadoop
-#!/usr/bin/env python3
 
 import sys
 

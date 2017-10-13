@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #File: mapper3.py
 #Author: Maggie Schweihs
 #DS730, Fall 2017
