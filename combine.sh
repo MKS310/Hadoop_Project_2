@@ -1,11 +1,11 @@
-#!/bin/bash                                                                                                  #
+#!/bin/bash
 # File: combine.sh                                                                                           #
 # Author: Maggie Schweihs                                                                                    #
 # Class: DS730, Fall 2017                                                                                    #      
 # Purpose: After running a MapReduce job in the cloud (AWS), we are left with multiple part-##### files.     #
 # This script is designed to run after the AWS S3 bucket is synced to an empty folder on a Linux machine     #
 # (Ubuntu Server 16.04 LTS)                                                                                  #
-# For Info on AWS S3 Sync utility: http://docs.aws.amazon.com/cli/latest/reference/s3/sync.html              #                                                                                #
+# For Info on AWS S3 Sync utility: http://docs.aws.amazon.com/cli/latest/reference/s3/sync.html              #
 #                                                                                                            #
 # Caveat: Only the part-##### files from one job should be in the folder. Files other than part-##### are ok.#
 # Create a new folder for each job!                                                                          #
@@ -28,6 +28,12 @@ usage ()
 
 #-d, -o, -f are required, h is optional
 while getopts ":d:o:f:h" opt; do
+
+if [[ -z $opt ]]; then
+   usage
+   exit 
+fi
+
     case "$opt" in 
         d )            #specify directory of files to combine
                        DIRECTORY=${OPTARG}
@@ -53,12 +59,20 @@ while getopts ":d:o:f:h" opt; do
                        exit 0
                        fi
                        ;;
-         h | * )      #display help
+         h | * | ? )      #display help
                        usage
                        exit 0
                        ;; 
     esac
 done
+
+#Check if no options were passed
+if [ $OPTIND -eq 1 ]; then
+echo "No options were passed"
+usage
+exit;
+ fi
+
 #do work
 cat $DIRECTORY/part* > $OUTDIR/$FILENAME
 #human-like sort

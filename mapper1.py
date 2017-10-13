@@ -31,18 +31,16 @@ import sys
 
 def main(argv):
 #read line from std in
-    line = sys.stdin.readline()
+    #line = sys.stdin.readline()
 
-    while line:
+    for line in sys.stdin:
         line = line.split(',')
         custID = line[6]
         InvoiceNo = line[0]
-    #Check if there is no Customer ID, if none, skip
-        if custID == '':
-            line = sys.stdin.readline()
-    #Check if the order is a return or if header row, if it is, skip
-        elif InvoiceNo[0].isalpha():
-            line = sys.stdin.readline()
+    #Check if there is no Customer ID, if order is a return, 
+    #or if it is the header row. If so, skip
+        if not custID or InvoiceNo[0].isalpha():
+            continue
     #Otherwise, parse the line
         else:    
             country = line[7]
@@ -50,10 +48,9 @@ def main(argv):
             date = line[4].split('/')
         #amtSpent = Qty * Price
             amtSpent = float(line[3]) * float(line[5])
-        #Print (key, value) where key is month,country and value is customerID,amountSpent
+        #Print <key, value> where key is month , country and value is customerID , amountSpent
         # eg. 5,Canada  17443,534.24
-            print(str(date[0]) +  "," + country.strip() + "\t" + custID + "," + str(amtSpent))
-            line = sys.stdin.readline()
+            print(str(date[0]) +  " , " + country.strip() + '\t' + custID + " , " + str(amtSpent))
 if __name__ == "__main__":
     main(sys.argv)
 

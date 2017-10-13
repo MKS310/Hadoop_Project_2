@@ -1,0 +1,271 @@
+1 , Australia	12415
+1 , Belgium	12383
+1 , Channel Islands	14442
+1 , Cyprus	12359
+1 , EIRE	14156
+1 , Finland	12664
+1 , France	12731
+1 , Germany	12501
+1 , Greece	14439
+1 , Iceland	12347
+1 , Italy	12578
+1 , Lebanon	12764
+1 , Netherlands	14646
+1 , Poland	12779
+1 , Portugal	12356
+1 , Singapore	12744
+1 , Spain	12557
+1 , Sweden	17404
+1 , Switzerland	12451
+1 , United Kingdom	12346
+2 , Australia	12415
+2 , Austria	12373
+2 , Belgium	12431
+2 , Channel Islands	14935
+2 , Cyprus	12455
+2 , Czech Republic	12781
+2 , Denmark	12372
+2 , EIRE	14156
+2 , Finland	12582
+2 , France	12567
+2 , Germany	12477
+2 , Israel	12653
+2 , Italy	12594
+2 , Japan	12753
+2 , Netherlands	14646
+2 , Norway	12350
+2 , Poland	12779
+2 , Portugal	12766
+2 , Saudi Arabia	12565
+2 , Spain	12507
+2 , Sweden	12676
+2 , Switzerland	13501
+2 , United Arab Emirates	17829
+2 , United Kingdom	18102
+3 , Australia	12415
+3 , Austria	12818
+3 , Belgium	12866
+3 , Canada	15388
+3 , Channel Islands	14936
+3 , Cyprus	12370
+3 , Denmark	12435
+3 , EIRE	14156
+3 , Finland	12428
+3 , France	12678
+3 , Germany	12480
+3 , Greece	17508
+3 , Italy	12514
+3 , Japan	12753
+3 , Netherlands	14646
+3 , Norway	12352
+3 , Poland	12779
+3 , Portugal	12758
+3 , Spain	12557
+3 , Sweden	17404
+3 , Switzerland	12456
+3 , United Kingdom	17450
+4 , Australia	12415
+4 , Austria	12429
+4 , Belgium	12362
+4 , Brazil	12769
+4 , Channel Islands	14931
+4 , EIRE	14911
+4 , European Community	15108
+4 , Finland	12664
+4 , France	12669
+4 , Germany	12477
+4 , Greece	12717
+4 , Iceland	12347
+4 , Italy	14912
+4 , Japan	12754
+4 , Netherlands	14646
+4 , Poland	12779
+4 , Portugal	12766
+4 , Singapore	12744
+4 , Spain	12354
+4 , Sweden	12639
+4 , Switzerland	13505
+4 , United Kingdom	15749
+4 , Unspecified	12363
+4 , USA	12733
+5 , Australia	12415
+5 , Austria	12360
+5 , Bahrain	12355
+5 , Belgium	12876
+5 , Canada	17443
+5 , Channel Islands	14442
+5 , Denmark	12372
+5 , EIRE	14156
+5 , France	12731
+5 , Germany	12590
+5 , Italy	12594
+5 , Japan	12770
+5 , Netherlands	14646
+5 , Poland	12779
+5 , Portugal	12757
+5 , Spain	12540
+5 , Sweden	17404
+5 , Switzerland	12451
+5 , United Kingdom	17450
+5 , Unspecified	16320
+6 , Australia	12415
+6 , Belgium	12379
+6 , Canada	17444
+6 , Channel Islands	14936
+6 , Cyprus	12359
+6 , Denmark	12429
+6 , EIRE	14911
+6 , European Community	15108
+6 , Finland	12704
+6 , France	12678
+6 , Germany	13815
+6 , Iceland	12347
+6 , Italy	12584
+6 , Japan	12798
+6 , Malta	17828
+6 , Netherlands	14646
+6 , Norway	12432
+6 , Poland	12816
+6 , Portugal	12809
+6 , Spain	12484
+6 , Sweden	12483
+6 , Switzerland	12409
+6 , United Kingdom	15098
+6 , Unspecified	16320
+7 , Australia	12415
+7 , Austria	12453
+7 , Belgium	12397
+7 , Canada	17444
+7 , Denmark	12412
+7 , EIRE	14156
+7 , European Community	15108
+7 , Finland	12405
+7 , France	12731
+7 , Germany	12705
+7 , Greece	12717
+7 , Israel	12653
+7 , Italy	12584
+7 , Japan	12753
+7 , Netherlands	14646
+7 , Norway	12438
+7 , Poland	12815
+7 , Portugal	12766
+7 , Singapore	12744
+7 , Spain	12557
+7 , Sweden	17404
+7 , Switzerland	12456
+7 , United Kingdom	18102
+7 , Unspecified	12743
+8 , Australia	12415
+8 , Austria	12865
+8 , Belgium	12449
+8 , Canada	17844
+8 , Channel Islands	14566
+8 , Denmark	13919
+8 , EIRE	14911
+8 , Finland	12428
+8 , France	12643
+8 , Germany	12477
+8 , Iceland	12347
+8 , Israel	12688
+8 , Italy	12610
+8 , Malta	15480
+8 , Netherlands	14646
+8 , Norway	12381
+8 , Poland	12750
+8 , Portugal	12758
+8 , Spain	12502
+8 , Sweden	17404
+8 , Switzerland	12378
+8 , United Kingdom	12931
+8 , Unspecified	14265
+9 , Australia	12415
+9 , Belgium	12449
+9 , Channel Islands	14934
+9 , Cyprus	12457
+9 , Denmark	12435
+9 , EIRE	14911
+9 , Finland	12664
+9 , France	12731
+9 , Germany	12621
+9 , Italy	12584
+9 , Japan	12756
+9 , Netherlands	14646
+9 , Norway	12752
+9 , Poland	12576
+9 , Portugal	12425
+9 , Spain	12502
+9 , Sweden	17404
+9 , Switzerland	12409
+9 , United Arab Emirates	12739
+9 , United Kingdom	17450
+10 , Australia	12415
+10 , Austria	12360
+10 , Belgium	12876
+10 , Channel Islands	14936
+10 , Cyprus	12359
+10 , Czech Republic	12781
+10 , Denmark	12403
+10 , EIRE	14911
+10 , Finland	12630
+10 , France	12678
+10 , Germany	12471
+10 , Iceland	12347
+10 , Israel	12512
+10 , Italy	12594
+10 , Japan	12798
+10 , Netherlands	14646
+10 , Norway	12433
+10 , Portugal	12757
+10 , RSA	12446
+10 , Singapore	12744
+10 , Spain	12454
+10 , Sweden	17404
+10 , Switzerland	12398
+10 , United Kingdom	18102
+10 , USA	12607
+11 , Australia	12415
+11 , Austria	12865
+11 , Belgium	12380
+11 , Channel Islands	14936
+11 , Cyprus	12391
+11 , Denmark	12406
+11 , EIRE	14911
+11 , Finland	12664
+11 , France	12567
+11 , Germany	12477
+11 , Italy	12349
+11 , Japan	12753
+11 , Malta	17828
+11 , Netherlands	14646
+11 , Norway	12433
+11 , Poland	12779
+11 , Portugal	12762
+11 , Spain	12557
+11 , Sweden	17404
+11 , Switzerland	12357
+11 , United Kingdom	14088
+12 , Australia	12431
+12 , Austria	12358
+12 , Belgium	12395
+12 , Channel Islands	14932
+12 , Cyprus	12370
+12 , Denmark	12429
+12 , EIRE	14911
+12 , Finland	12348
+12 , France	12731
+12 , Germany	12471
+12 , Greece	12478
+12 , Iceland	12347
+12 , Italy	12725
+12 , Japan	12755
+12 , Lithuania	15332
+12 , Netherlands	14646
+12 , Norway	12433
+12 , Poland	12779
+12 , Portugal	12766
+12 , Spain	12540
+12 , Sweden	17404
+12 , Switzerland	12377
+12 , United Kingdom	16446
+12 , USA	12646

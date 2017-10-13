@@ -37,11 +37,11 @@ def main(argv):
     for line in sys.stdin:
         line = line.split('\t')
     #key is month,country
-        key = line[0]
+        key = line[0].strip()
     #values has two values: custID, amount spent on an invoice
         values = line[1].split(',')
-        amt = float(values[1])
-        cust = values[0]
+        cust = values[0].strip()
+        amt = float(values[1].strip())     
     #First pass and when working on current key
         if curr_key == key or curr_key == None:
         #First pass and when working on current customer, update total amount spent per customerID "curr_amt"
@@ -58,7 +58,8 @@ def main(argv):
         #When gets to the next month,country combo, print the results of the previous month, country
         #Results: (key   value) = (month,country   bigspender_custID)
         #eg. 5,Canada   17443
-        elif curr_key != key and len(customers) >= 1 :
+        elif curr_key != key or len(customers) == 1 :
+            customers.append([curr_amt, curr_cust])
             print(curr_key + '\t' + max(customers)[1])
             curr_cust = cust
             curr_amt = amt

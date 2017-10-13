@@ -1,8 +1,0 @@
-hello	2
-this	2
-is	1
-a	0
-test	1
-tater	2
-tart	1
-abdefghfebdc	4

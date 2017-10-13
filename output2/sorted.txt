@@ -1,0 +1,5 @@
+0 : a,i,i,mom,racecar,toot	
+1 : cat,cat,cat,hat,in,is,momm,sdf,tart,test,that,the	
+2 : hello,laksjdl,tater,think,this,will	
+4 : abdefghfebdc,whatever	
+5 : palindrome,palindrome	
