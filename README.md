@@ -4,7 +4,7 @@ Big Data:High Performance Computing MapReduce Project
 
 In this project, I worked with input, output, Python and the MapReduce framework. The mappers and reducers to solve a few different problems, listed below.
 
-##Background
+## Background
 The map function is stateless and this is especially important when dealing with Hadoop and distributed work. We can’t guarantee that any 1 mapper will read in all of the data. 
 Nor can we guarantee that certain input will end up on the same machine for mapping. Rather, 1 mapper will likely read in a small portion of the data. 
 The output that the mapper produces must only depend on the current input value.
