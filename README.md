@@ -1,5 +1,5 @@
 # Hadoop_Project_2
-Big Data:High Performance Computing Project
+Big Data:High Performance Computing MapReduce Project
 
 
 In this project, I worked with input, output, Python and the MapReduce framework. The mappers and reducers to solve a few different problems, listed below.
