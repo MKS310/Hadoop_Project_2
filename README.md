@@ -48,51 +48,6 @@ The output would be:
 
 The words on the righthand side must be in alphabetical order. You can assume that the words will contain only letters. However, they may be upper or lowercase and that should not affect the palindromedness. For example, Tat is a palindrome even though ‘T’ is not identical to ‘t’ but they are the same letter. There will be no numbers or special symbols in the input. All words will be separated by whitespace (either a space, tab or newline). Your output should be what you see above. The palindromedness value on the left, followed by a colon and then followed by a list of words with that palindromedness value separated by a comma. If there are duplicate words in the input file, you should print out both words in the final output.
 
-In my opinion, this is difficult but not as difficult as 2a. On many social media websites, it is common for the company to provide a list of suggested contacts for you to connect with. Many of these suggestions come from your own list of current contacts. The basic idea behind this concept being: I am connected with person A and person B but not person C. Person A and person B are both connected to person C. None of my contacts are connected to person D. It is more likely that I know person C than some other random person D who is connected to no one I know. In this problem, you will read in an input file that is formatted in the following manner:
-	PersonA : PersonX PersonY PersonZ PersonQ
-	PersonB : PersonF PersonY PersonX PersonG PersonM
-	…
-The person to the left of the colon will be the current person. All people to the right of the colon are the people that the current person is connected to. All people will be separated by a single space. In the example above, PersonA is connected to PersonX, Y, Z and Q. In all inputs, all people will be replaced with integer ids to keep things simple. The following is a sample input file:
-
-	1 : 3 5 8 9 10 12
-2 : 3 4 7 6 13
-3 : 9 11 10 1 2 13
-4 : 2 5 7 8 9
-5 : 4 1 7 11 12
-6 : 2 9 8 10
-7 : 5 2 4 9 12
-8 : 1 6 4 11
-9 : 12 1 3 6 4 7
-10 : 1 3 6 11
-11 : 3 5 10 8
-12 : 1 7 5 9
-13 : 2 3
-
-
-The ordering of people on the right hand side can be in any random order. Your goal is this: you must output potential contacts based on the following 2 criteria:
-Someone who might be someone you know. For someone to be suggested here, the person must not currently be a connection of yours and that person must be a connection of 2 or 3 of your current connections. For example, consider person 2 in the above example. Person 2 is connected with 3, 4, 6, 7 and 13. Person 4 is connected to 8, person 6 is connected to 8, person 3 is not connected to 8, person 7 is not connected to 8 and person 13 is not connected to 8. Therefore, person 2 has two connections (4 and 6) that are connected to 8 and person 2 is not currently connected to 8. Therefore, person 2 might know person 8. 
-Someone you probably know. For someone to be suggested here, the person must not currently be a connection of yours and that person must be a connection of 4 or more of your current connections. For example, consider person 2 in the above example. Person 2 is connected with 3, 4, 6, 7 and 13. Person 4 is connected to 9, person 6 is connected to 9, person 3 is connected to 9 and person 7 is connected to 9. Therefore, person 2 has at least four connections that are connected to 9 and person 2 is not currently connected to 9. Therefore, person 2 probably knows person 9. 
-
-Your output should be formatted in the following fashion:
-
-personID : Might(personA,…, personX) Probably(personA, … personX)
-
-You have the person’s id following by a colon. The colon is followed by the list of Might’s separated by commas. If a person has no one they might be connected to, this list is not printed at all (see person 9 below for example). The Might list is followed by the Probably list separated by commas. If a person has no one they probably are connected to, this list is not printed at all (see person 3 for example). If a person has neither a might list or a probably list, that person only has their id along with a colon (see person 13 for example). As a concrete example from the above sample input, this would be the sample output:
-
-1 : Might(4, 6, 7) Probably(11)
-2 : Might(5, 8, 10) Probably(9)
-3 : Might(4, 5, 6, 7, 8, 12) 
-4 : Might(1, 3, 6, 11, 12) 
-5 : Might(2, 3, 8, 10) Probably(9)
-6 : Might(1, 3, 4, 7, 11) 
-7 : Might(1, 3, 6) 
-8 : Might(2, 3, 5, 9, 10) 
-9 : Might(8, 10) Probably(2, 5)
-10 : Might(2, 5, 8, 9) 
-11 : Might(4, 6) Probably(1)
-12 : Might(3, 4) 
-13 : 
-
 ## Problem 3: Generating Data, Counting
 Assume you work for a pet store and you want to know where to spend your marketing money. A “pet census” was sent to all cities in your area. Each city compiled the data and sent you the results. Each city compiled the data in different ways but they all followed a basic rule. For each citizen, a string appears in the file with the following information:
 If the citizen owns 3 cats, 3 C’s show up in the string.
